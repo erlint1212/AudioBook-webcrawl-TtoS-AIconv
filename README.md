@@ -1,2 +1,7 @@
 # AudioBook-webcrawl-TtoS-AIconv
-Choose book site, mark text block and next chapter, rip the chapters, run the text to speech, run the speech to model model
+Workflow idea:
+* choose site
+* crawl all chapters
+* Use DeepL or Google transelate to get english text
+* Use a text to speech tool to generate audio files
+* Use speech "AI" model to transform to something more pleasing to the air
